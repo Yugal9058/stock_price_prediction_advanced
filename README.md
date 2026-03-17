@@ -103,3 +103,12 @@ Feature engineering
 ML/DL model development
 Time-series forecasting
 Modular project structuring
+<img width="2880" height="1800" alt="Screenshot 2026-03-17 at 12 50 20 PM" src="https://github.com/user-attachments/assets/e0ae10b9-a4f2-41de-8971-46dc136a1ad5" />
+<img width="1440" height="900" alt="Screenshot 2026-03-17 at 12 50 29 PM" src="https://github.com/user-attachments/assets/f593ce1a-ce38-495f-b80d-3b07a1b63cde" />
+<img width="1440" height="900" alt="Screenshot 2026-03-17 at 12 50 38 PM" src="https://github.com/user-attachments/assets/4e086c35-8010-4490-9754-d5ac9564ff14" />
+<img width="1440" height="900" alt="Screenshot 2026-03-17 at 12 50 43 PM" src="https://github.com/user-attachments/assets/30155d66-56f9-4de1-af93-260d22f2efcb" />
+<img width="1440" height="900" alt="Screenshot 2026-03-17 at 12 50 49 PM" src="https://github.com/user-attachments/assets/06eed5e1-552c-4f1e-889d-e978f1acc4c3" />
+<img width="1440" height="900" alt="Screenshot 2026-03-17 at 12 50 58 PM" src="https://github.com/user-attachments/assets/007ae97f-233a-41ad-9f79-ef846b53a58c" />
+<img width="1440" height="900" alt="Screenshot 2026-03-17 at 12 51 02 PM" src="https://github.com/user-attachments/assets/1ab7424d-589d-46ed-b173-ef7072ad5d04" />
+
+
